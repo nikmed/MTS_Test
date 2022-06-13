@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MTS_Task2": {
+      "commandName": "Project",
+      "commandLineArgs": "--dirpath=C:\\Test"
+    }
+  }
+}

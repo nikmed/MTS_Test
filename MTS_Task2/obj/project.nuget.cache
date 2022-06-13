@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymflf7I+4c7cPxLHMlA4j6lnaJUzF89EIU/k/vjjT3PJlRamV5UdYwWccEmVQhXcLhnxJa3VyxCBBAU8xrNkdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikme\\source\\repos\\MTS_Task2\\MTS_Task2\\MTS_Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikme\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
